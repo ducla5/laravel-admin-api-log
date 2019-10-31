@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/api-log-viewer",
+    "name": "ducla5/api-log-viewer",
     "description": "API Log viewer for laravel admin",
     "type": "library",
     "keywords": ["laravel-admin", "api-log", "viewer", "api"],
